@@ -1,0 +1,5 @@
+{
+  "name": "Letteretris",
+  "description": "A high-stakes fusion of Tetris and Scrabble. Drop letters, form words, and clear the board before it reaches the top.",
+  "requestFramePermissions": []
+}
